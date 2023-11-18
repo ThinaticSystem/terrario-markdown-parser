@@ -12,5 +12,8 @@
     "parser"
   ],
   "author": "ThinaticSystem",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
 }
